@@ -1,0 +1,23 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "boiler-plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "node"
+  ],
+  "author": "frontainer",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-frontnote": "^2.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
